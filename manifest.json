@@ -1,0 +1,13 @@
+{
+  "toolkits": [
+    {
+      "name": "AnchorPoint Reconnect",
+      "id": "reconnect",
+      "version": "1.0",
+      "description": "Fix Wi-Fi and network connectivity issues easily.",
+      "download_url": "https://SunriseBlu.github.io/sunriseblu-store/downloads/reconnect-placeholder.exe",
+      "icon_url": "https://SunriseBlu.github.io/sunriseblu-store/assets/reconnect-icon.png",
+      "status": "Available"
+    }
+  ]
+}
